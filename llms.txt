@@ -1,0 +1,31 @@
+# Kiran
+
+Canonical URL: https://kiranmagic7.github.io/
+GitHub: https://github.com/kiranmagic7
+Profile README: https://github.com/kiranmagic7/kiranmagic7
+
+Kiran is a developer-tool reliability engineer and open-source contributor focused on agentic engineering tools.
+
+Core work areas:
+- Usage meters and provider utilization systems
+- CLI integrations and subprocess behavior
+- Runtime, sandbox, and session boundaries
+- Editor state, Markdown, MDX, and table behavior
+- Config diagnostics and documentation correctness
+- Research infrastructure with source traceability
+
+Public proof:
+- 29 public upstream pull requests merged since February 2026
+- 16 merged CodexBar pull requests
+- Merged work across CodexBar, OpenClaw, Crabbox, gogcli, Plate, Rueidis, Rushstack, tokentally, Vercel AI, Langflow, and MCP TypeScript SDK
+
+Selected pull requests:
+- Claude CLI rate-limit handling in CodexBar: https://github.com/steipete/CodexBar/pull/1685
+- Provider utilization history in CodexBar: https://github.com/steipete/CodexBar/pull/1588
+- Modal run-session handles in Crabbox: https://github.com/openclaw/crabbox/pull/452
+- E2B run-session handles in Crabbox: https://github.com/openclaw/crabbox/pull/451
+- MDX table preservation in Plate: https://github.com/udecode/plate/pull/5007
+- Redis array command builders in Rueidis: https://github.com/redis/rueidis/pull/1002
+
+Short description:
+Kiran builds small, tested fixes for developer tools where reliability problems quietly waste engineering time.
